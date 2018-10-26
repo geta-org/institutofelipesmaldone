@@ -95,7 +95,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #dff9fb;
+		background: #003780;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
@@ -112,7 +112,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #2d3436;
+		color: #C5D3E2;
 		font-family: "Open Sans", sans-serif;
 		font-size: 13pt;
 		font-weight: 400;
@@ -176,7 +176,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3d4449;
+		color: #c7ecee;
 		font-family: "Roboto Slab", serif;
 		font-weight: 700;
 		line-height: 1.5;
@@ -1977,22 +1977,22 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: #535c68 !important;
+		color: #C5D3E2 !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: #535c68 !important;
+		color: #C5D3E2 !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: #535c68 !important;
+		color: #C5D3E2 !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: #535c68 !important;
+		color: #C5D3E2 !important;
 		opacity: 1.0;
 	}
 
@@ -3088,7 +3088,7 @@ input, select, textarea {
 		-webkit-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
 		-ms-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
 		transition: margin-left 0.5s ease, box-shadow 0.5s ease;
-		background-color: #dff9fb;
+		background-color: #012e68;
 		font-size: 0.9em;
 		position: relative;
 		width: 26em;
@@ -3453,7 +3453,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer .copyright {
-		color: #535c68;
+		color: #C5D3E2;
 		font-size: 0.9em;
 	}
 
@@ -3468,7 +3468,7 @@ input, select, textarea {
 		-webkit-user-select: none;
 		-ms-user-select: none;
 		user-select: none;
-		color: #3d4449;
+		color: #C5D3E2;
 		font-family: "Roboto Slab", serif;
 		font-family: 400;
 		letter-spacing: 0.075em;
@@ -3515,7 +3515,7 @@ input, select, textarea {
 					-webkit-transition: color 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
 					-ms-transition: color 0.2s ease-in-out, -ms-transform 0.2s ease-in-out;
 					transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
-					color: #535c68;
+					color: #C5D3E2;
 					content: '\f078';
 					position: absolute;
 					right: 0;
@@ -3543,7 +3543,7 @@ input, select, textarea {
 	}
 
 		#menu > ul > li > ul {
-			color: #535c68;
+			color: #C5D3E2;
 			display: none;
 			margin: 0.5em 0 1.5em 0;
 			padding-left: 1em;
